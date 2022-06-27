@@ -1,0 +1,4 @@
+[submodule "foo"]
+	path = foo
+	url = https://github.com/dave/submodules2
+	branch = master
